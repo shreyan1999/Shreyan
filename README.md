@@ -1,2 +1,0 @@
-# Shreyan
-My introduction
