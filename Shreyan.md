@@ -5,5 +5,7 @@ I am currently pursuing my third year in Biomedical Engineering at Manipal Insti
 # Find me on the web:
 
 LinkedIn: https://www.linkedin.com/in/shreyan-j-d-fernandes-227789147
+
 Profile: https://studentambassadors.microsoft.com/en-US/profile/4761
+
 dev.to : https://dev.to/shreyan1999
